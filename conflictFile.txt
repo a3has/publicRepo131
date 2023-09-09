@@ -1,0 +1,2 @@
+this file should create a conflict, one liner
+added for merge conflict 
